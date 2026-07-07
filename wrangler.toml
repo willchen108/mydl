@@ -1,4 +1,4 @@
-name = "parse-shenzjd-com"
+name = "mydl"
 main = ".vercel/output/static/_worker.js/index.js"
 compatibility_date = "2025-08-14"
 compatibility_flags = ["nodejs_compat"]
