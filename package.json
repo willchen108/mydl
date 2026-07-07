@@ -18,11 +18,7 @@
     "wrk:dev": "npx -y wrangler@4.29.1 dev --local",
     "wrk:deploy": "npx -y wrangler@4.29.1 deploy"
   },
-  "dependencies": {
-    "next": "^15.3.9",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "wx-auth-sdk": "^1.2.4"
+ 
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
